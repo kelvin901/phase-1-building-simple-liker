@@ -20,5 +20,17 @@
     "mocha-multi": "1.0.1",
     "sinon": "^7.2.3",
     "sinon-stub-promise": "^4.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvin901/phase-1-building-simple-liker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kelvin901/phase-1-building-simple-liker/issues"
+  },
+  "homepage": "https://github.com/kelvin901/phase-1-building-simple-liker#readme"
 }
